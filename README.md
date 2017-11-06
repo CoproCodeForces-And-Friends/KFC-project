@@ -17,6 +17,6 @@ It is student's project as a part of methodology of software engineering course 
 CI - CI.
 
 Технологии:
-.Net Core C#, Lisp
-Tarantool DB, PostgreSQL
-Jenkins CI, Docker
+  - .Net Core C#, Lisp
+  - Tarantool DB, PostgreSQL
+  - Jenkins CI, Docker
