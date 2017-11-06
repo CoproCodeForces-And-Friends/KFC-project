@@ -20,3 +20,6 @@ CI - CI.
   - .Net Core C#, Lisp
   - Tarantool DB, PostgreSQL
   - Jenkins CI, Docker
+
+
+Доска https://trello.com/b/XdcXXmPt/kfc-project
