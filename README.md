@@ -1,5 +1,6 @@
 # KFC-project
 It is student's project as a part of methodology of software engineering course in ITMO University.
+
 Дальше будет по-русски.
 
 Проект представляет собой ПО для извлечения и агрегирования информации из систем управления проектами: Jira и Trello, а также систем отслеживания ошибок: GitHub Issues, Mantis. Данное ПО потенциально разрабатывается, как часть некоего большого проекта, о котором мы не вправе пока рассказывать.
