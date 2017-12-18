@@ -22,4 +22,4 @@ CI - CI.
   - Jenkins CI, Docker
 
 
-Доска https://trello.com/b/XdcXXmPt/kfc-project
+Доска https://trello.com/b/XdcXXmPt
